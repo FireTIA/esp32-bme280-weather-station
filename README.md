@@ -45,7 +45,7 @@
 
 ## 🙏 Благодарности
 - **Ручной тестировщик у LLM моделей 😅:** FireTIA
-- **LLM:** Gemini 3.1 Pro (Python скриптинг), Qwen3.8-Max-Preview (ESP32 кодинг)
+- **LLM:** Gemini 3.1 Pro (Python скриптинг), Qwen3.8-Max-Preview (ESP32 кодинг), Claude Sonnet 5 Medium (Исправление и дополнение кода)
 
 ---
 
